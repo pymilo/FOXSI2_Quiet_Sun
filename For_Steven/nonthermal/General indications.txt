@@ -1,0 +1,24 @@
+General indications
+
+Thermal case:
+
+We placed limits in temperature and emission measure, assuming a Volume, and because this limits we were able to place limits on the thermal energy.
+
+Non-thermal case:
+
+We want to set limits on the non-thermal spectrum (this a photon spectrum), and what this non-thermal spectrum tells you is what the electron spectrum is. This means we can set limits based on our observations on the non-thermal electron spectrum. This also means we can have a limit for the non-thermal electron energy, and we also have limits on the non-thermal number of electrons. 
+
+The energy is just the integral of that spectrum and the number of electrons is also an integral over that spectrum. 
+
+Then, to place limits on the non-thermal electron spectrum you have to make so assumptions as well. We assume a cut off energy (5 keV). Then we can vary gamma, that is the power law spectral index, and is directly related with delta, which is the electron power law spectral index, and the normalization and the slope. 
+
+gamma = [2,7]
+Photon normalization number: A = []
+
+
+Then integrate for each of these two values, how many photons we should have seen in that region. Once we have that line, as we had that line before for the thermal case, then we have a limit for the photon normalization and gamma and both of those can be related back to the electron numbers. Ignore the electron part first. Just do the photon side. 
+
+
+
+
+
